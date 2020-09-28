@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  background-color: grey;
+}
+#section {
+  width: 100vw;
+  height: 100vh;
+}
+#chat {
+  width: 100vw;
+  height: 100vh;
+  border: 1px solid darkblue;
+  display: none;
+  flex-wrap: wrap;
+}
+#mesege {
+  width: 80%;
+  height: 90vh;
+  background-color: white;
+  position: relative;
+  left: 80px;
+  margin: 15px;
+}
+#entermesage {
+  width: 80%;
+  height: 200px;
+  position: relative;
+  left: 80px;
+  display: ;
+}
+#mes {
+  width: 80%;
+}
